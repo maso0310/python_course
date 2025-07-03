@@ -1,10 +1,10 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f8ff;
-  text-align: center;
-  padding: 50px;
+  font-family: Arial, sans-serif;         /* 設定網頁整體的字體為 Arial，若無則使用系統預設的 sans-serif 字體 */
+  background-color: #f0f8ff;            /* 設定網頁背景顏色為淡藍色（AliceBlue） */
+  text-align: center;                     /* 將文字內容置中對齊 */
+  padding: 50px;                          /* 網頁內部與邊界之間保留 50px 的內間距 */
 }
 
 h1 {
-  color: #3366cc;
+  color: #3366cc;                       /* 設定主標題（h1）文字顏色為深藍色 */
 }
