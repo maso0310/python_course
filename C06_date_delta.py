@@ -16,3 +16,7 @@ one_week = timedelta(weeks=1)
 # 今天減一週，就是上週同一天
 last_week = today - one_week
 print('上週的今天是：' + str(last_week))
+
+"""
+1.日期時間，可用timedelta來進行加減計算
+"""

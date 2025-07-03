@@ -15,3 +15,8 @@ def evaluate_student(name, score):
 print(evaluate_student("Alice", 92))
 print(evaluate_student("Bob", 78))
 print(evaluate_student("Charlie", 59))
+
+"""
+1.函數可重覆呼叫，並根據不同輸入產生不同結果
+2.return 可將結果傳回主程式做後續使用
+"""

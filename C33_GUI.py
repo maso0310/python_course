@@ -19,3 +19,8 @@ label = tk.Label(window, text="")# 建立一個標籤元件，用來顯示打招
 label.pack()
 
 window.mainloop()                # 啟動主事件迴圈，讓視窗保持開啟狀態
+
+"""
+1.tkinter是Python內建的圖形化介套件，也可下載其他更好用的套件如PyQt
+2.圖形化介面仍需以pyinstaller等方式打包使用
+"""

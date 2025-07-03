@@ -22,3 +22,8 @@ class MyRange:
 # 使用自訂迭代器
 for i in MyRange(0, 3):
     print(i)  # 依序印出 0, 1, 2
+
+"""
+1.在物件中，添加__iter__與__next__方法，將會使該物件具有可迭代性
+2.__next__需要設定迴圈結束後，出現 StopIteration 以停止繼續迭代
+"""

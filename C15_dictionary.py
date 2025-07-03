@@ -16,3 +16,14 @@ del person["city"]
 # 使用迴圈
 for key, value in person.items():
     print(f"{key}：{value}")
+
+"""
+字典(Dictionary) ：
+1.鍵值成對組成
+2.有序
+3.可變
+4.鍵不可重覆
+5.支援多類別
+6.支援切片
+7.可迭代
+"""

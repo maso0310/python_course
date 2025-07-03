@@ -13,3 +13,7 @@ print('除法')        # division
 print(first_num / second_num)
 print('次方')        # exponent
 print(first_num ** second_num)  # 6 的 2 次方 = 36
+
+"""
+1.數字變數才能進行數學運算
+"""

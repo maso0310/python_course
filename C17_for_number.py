@@ -8,3 +8,9 @@ for num in range(1, 11):
         break  # 中止整個迴圈
 
     print("目前數字：", num)
+
+"""
+1.range()可以製造一組可迭代數字序列
+2.continue是跳過此輪，直接進入下一輪
+3.break是立即終止整個for迴圈
+"""

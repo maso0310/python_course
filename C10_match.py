@@ -13,22 +13,7 @@ match command:
 
 
 
-if x > 0: 
-    print("正數") 
-else
-    print("其他")
-
-if x > 0:
-print("正數")
-elif x == 0: 
-print("零")
-
-if x > 0: 
-    print("正數") 
-elif x == 0: 
-    print("零")
-
-if x > 0 
-    then print("正數")
-elif x == 0
-    then print("零")
+"""
+1.每個case都是一個條件判斷式，也都需要加上冒號 ： 
+2.match-case是3.10版之後的功能
+"""

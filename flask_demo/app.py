@@ -8,3 +8,13 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+"""
+常見的Python網頁框架有Flask、Django、FastAPI
+
+回應速度:
+Django < Flask < FastAPI
+
+支援功能:
+Django > Flask > FastAPI
+"""

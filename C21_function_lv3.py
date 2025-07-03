@@ -6,3 +6,8 @@ def calculate_price(original_price, discount=0.9):
 # 呼叫範例
 print("原價 100，預設折扣：", calculate_price(100))         # 90.0
 print("原價 200，自訂 8 折：", calculate_price(200, 0.8))   # 160.0
+
+"""
+1.函數可接受預設參數
+2.預設的自訂參數不會是必要參數
+"""
